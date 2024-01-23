@@ -20,3 +20,12 @@
 #ifdef OLED_ENABLE
 #   define OLED_FONT_H "keyboards/splitkb/aurora/lily58/glcdfont.c"
 #endif
+
+#define MK_3_SPEED
+
+#define MK_C_OFFSET_0 2
+#define MK_C_INTERVAL_0 8
+#define MK_C_OFFSET_1 4
+#define MK_C_INTERVAL_1 8
+#define MK_C_OFFSET_2 8
+#define MK_C_INTERVAL_2 8
