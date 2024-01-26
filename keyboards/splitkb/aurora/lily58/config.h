@@ -29,3 +29,6 @@
 #define MK_C_INTERVAL_1 8
 #define MK_C_OFFSET_2 8
 #define MK_C_INTERVAL_2 8
+
+#define TAPPING_TERM 200
+#define PERMISSIVE_HOLD
