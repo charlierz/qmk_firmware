@@ -12,7 +12,7 @@
     },
     "indicators": {
         "num_lock": 24,
-        "on_state": 0
+        "on_state": 1
     },
     "layouts": {
         "LAYOUT": {
