@@ -10,10 +10,6 @@
         "oled": true,
         "rgb_matrix": true
     },
-    "indicators": {
-        "num_lock": 24,
-        "on_state": 1
-    },
     "layouts": {
         "LAYOUT": {
             "layout": [
