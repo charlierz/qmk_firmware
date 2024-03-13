@@ -15,4 +15,3 @@
 
 DEFAULT_FOLDER = splitkb/aurora/lily58/rev1
 CONVERT_TO=liatris
-SRC += features/achordion.c
