@@ -58,8 +58,8 @@
       "KC_SLSH",
       "KC_BSLS",
       "KC_LGUI",
-      "LGUI_T(KC_ESC)",
-      "LT(1,KC_TAB)",
+      "LGUI_T(KC_TAB)",
+      "LT(1,KC_ESC)",
       "LCTL_T(KC_SPC)",
       "RSFT_T(KC_ENT)",
       "LT(2,KC_BSPC)",
@@ -161,7 +161,7 @@
       "KC_DOWN",
       "KC_UP",
       "KC_RGHT",
-      "KC_F11",
+      "KC_F12",
       "RGB_TOG",
       "KC_NO",
       "KC_MPRV",
@@ -183,7 +183,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_F12",
+      "KC_F11",
       "KC_NO"
     ],
     [
