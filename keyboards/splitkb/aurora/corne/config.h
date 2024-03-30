@@ -20,3 +20,7 @@
 #ifdef OLED_ENABLE
 #   define OLED_FONT_H "keyboards/splitkb/aurora/corne/glcdfont.c"
 #endif
+
+#define TAPPING_TERM 180
+#define QUICK_TAP_TERM 100
+#define PERMISSIVE_HOLD
