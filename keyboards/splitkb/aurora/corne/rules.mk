@@ -15,3 +15,4 @@
 
 DEFAULT_FOLDER = splitkb/aurora/corne/rev1
 CONVERT_TO=liatris
+CAPS_WORD_ENABLE = yes
