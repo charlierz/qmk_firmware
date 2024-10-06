@@ -15,3 +15,5 @@
 
 DEFAULT_FOLDER = splitkb/aurora/lily58/rev1
 CONVERT_TO=liatris
+CAPS_WORD_ENABLE = yes
+
